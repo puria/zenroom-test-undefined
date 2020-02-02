@@ -2,8 +2,8 @@
 
 # install
 
-npm i
+`npm i`
 
 # run
 
-npm start
+`npm start`
